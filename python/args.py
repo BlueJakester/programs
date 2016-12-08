@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# simple script to read and print command line arguments
+
 import sys
 
 if len(sys.argv) == 1:
