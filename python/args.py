@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# simple script to read and print command line arguments
+""" simple script to read and print command line arguments """
 
 import sys
 
