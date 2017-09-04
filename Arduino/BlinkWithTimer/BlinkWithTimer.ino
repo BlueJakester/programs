@@ -1,5 +1,7 @@
 /*
  * A better blink without delay or running a process at intervals without a delay
+ *
+ * Jack's example program modified to work with builtin LED pin 13 on Arduino Uno
  */
 
 #include "Timer.h"  //http://github.com/JChristensen/Timer
