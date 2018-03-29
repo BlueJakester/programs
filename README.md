@@ -1,1 +1,1 @@
-## Welcome to my Git repo!
+## Welcome to my Git repo.
