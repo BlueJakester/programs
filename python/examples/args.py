@@ -1,5 +1,7 @@
 import sys
 
+# testing command line args
+
 if len(sys.argv) == 1:
 	print("No arguments received.")
 	sys.exit(0)
