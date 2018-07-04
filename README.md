@@ -1,1 +1,1 @@
-## Varios files to store and track at GitHub repo.
+## Various files to store and track at GitHub repo.
